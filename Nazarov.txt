@@ -1,6 +1,0 @@
-В порядку убывания по владению:
-Oracle pl\sql
-Delphi,
-xml, html
-php,
-JS,
